@@ -1,3 +1,5 @@
+package week1commit;
+
 public class HelloWorld {
 
     public static void main(String[] args) {

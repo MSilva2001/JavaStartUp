@@ -1,4 +1,4 @@
-// Class Declaration
+package week1commit;// Class Declaration
 
 public class Dog
 {

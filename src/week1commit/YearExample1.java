@@ -1,5 +1,6 @@
+package week1commit;
 
- import java.time.Year;
+import java.time.Year;
   public class YearExample1 {
   public static void main(String[] args) {
    Year y = Year.now();
